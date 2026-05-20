@@ -120,18 +120,6 @@ covid19-project/
 
 
 
-\## 📜 Certifications
-
-\- Python 101 for Data Science — IBM / Cognitive Class (Jan 2025)
-
-\- Data Analyst Skill Certification — One Roadmap (Aug 2025)
-
-\- Data Analytics Job Simulation — Deloitte via Forage (May 2026)
-
-\- GenAI Powered Data Analytics Job Simulation — Tata via Forage (May 2026)
-
-
-
 \## 👤 Author
 
 \*\*Vivek Kumar\*\*
